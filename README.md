@@ -1,8 +1,8 @@
 # Netflix-Mern-with-Admin-Dashboard
 
 Full Stack Mern Responsive Netflix clone containes
-* movies and series 
-* trailer
+* New Movies and series on every visit
+* trailers 
 * movie vedioes streams
 * Login and Register system
 * admin Dashboard (admins only )
