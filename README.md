@@ -23,7 +23,7 @@ with admin dash board for graphical User analytics stats about How many users jo
 #### Register
 ![Screen Shot 2022-08-08 at 1 15 47 PM](https://user-images.githubusercontent.com/91483223/187032784-ba7561df-8f63-4c2a-9f16-9f22902440c9.png)
 #### Login
-[Screen Shot 2022-08-29 at 10.04.26 AM.pdf](https://github.com/sherifgowaied/Netflix-Mern-with-Admin-Dashboard/files/9442784/Screen.Shot.2022-08-29.at.10.04.26.AM.pdf)
+![image](https://user-images.githubusercontent.com/91483223/187155833-7de3eb53-0936-4031-a7ab-ad725906f4d6.png)
 
 
 ### admin Dash board User data analtics 
