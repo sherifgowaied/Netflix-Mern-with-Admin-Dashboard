@@ -31,6 +31,7 @@ with admin dash board for graphical User analytics stats about How many users jo
 ### Movies Dash Board for GetAll , get ,create , edit , delete 
 ![Screen Shot 2022-08-09 at 2 25 24 PM](https://user-images.githubusercontent.com/91483223/187032860-d8d63366-ca72-4855-b2da-67857513ba00.png)
 </br>
+### edit movie mongoDb database and files via firebase
 ![Screen Shot 2022-08-09 at 2 25 31 PM](https://user-images.githubusercontent.com/91483223/187032863-b61937ae-7dbb-4f44-93cb-105663ba2a08.png)
 
 
