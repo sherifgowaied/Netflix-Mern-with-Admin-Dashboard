@@ -23,7 +23,7 @@ with admin dash board for graphical User analytics stats about How many users jo
 #### Register
 ![Screen Shot 2022-08-08 at 1 15 47 PM](https://user-images.githubusercontent.com/91483223/187032784-ba7561df-8f63-4c2a-9f16-9f22902440c9.png)
 #### Login
-![Screen Shot 2022-08-08 at 1 25 33 PM](https://user-images.githubusercontent.com/91483223/187032805-f23974da-fbe5-414d-b09b-09d155825e21.png)
+[Screen Shot 2022-08-29 at 10.04.26 AM.pdf](https://github.com/sherifgowaied/Netflix-Mern-with-Admin-Dashboard/files/9442784/Screen.Shot.2022-08-29.at.10.04.26.AM.pdf)
 
 
 ### admin Dash board User data analtics 
@@ -32,3 +32,12 @@ with admin dash board for graphical User analytics stats about How many users jo
 ![Screen Shot 2022-08-09 at 2 25 24 PM](https://user-images.githubusercontent.com/91483223/187032860-d8d63366-ca72-4855-b2da-67857513ba00.png)
 </br>
 ![Screen Shot 2022-08-09 at 2 25 31 PM](https://user-images.githubusercontent.com/91483223/187032863-b61937ae-7dbb-4f44-93cb-105663ba2a08.png)
+
+
+## How to start
+after clone the project
+* get account mongoDb , firebase for apikey then put in .env api file in api file
+* go to api, admin, client in terminal
+````
+$ npm install && npm start 
+````
